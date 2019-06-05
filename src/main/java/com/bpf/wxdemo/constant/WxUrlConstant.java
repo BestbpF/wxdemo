@@ -23,5 +23,5 @@ public class WxUrlConstant {
     /**
      * 微信支付统一下单地址(开发者地址)
      */
-    public final static String UNIFIED_ORDER_URL = "http://api.xdclass.net/pay/unifiedorder";
+    public final static String UNIFIED_ORDER_URL = "https://api.mch.weixin.qq.com/pay/unifiedorder";
 }
