@@ -21,7 +21,7 @@ public class WxUrlConstant {
     public final static String OPEN_USER_INFO = "https://api.weixin.qq.com/sns/userinfo?access_token=%s&openid=%s&lang=zh_CN";
 
     /**
-     * 微信支付统一下单地址(开发者地址)
+     * 微信支付统一下单地址
      */
     public final static String UNIFIED_ORDER_URL = "https://api.mch.weixin.qq.com/pay/unifiedorder";
 }
